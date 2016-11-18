@@ -8,6 +8,7 @@ A running list of project ideas that interest me.
 
 ## CLI / Developer Tools  
 - [ ] A new github project generator that will set up the repo and bootstrap the boring files (test dir, travis config, package.json, index.html, etc). Configurable by project type / language environment.  
+- [ ] A new macbook setup script that grabs all the languages / packages I like to use, installs them, and clones my configuration files.  
 
 
 ## Desktop / Native Apps
