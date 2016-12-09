@@ -49,3 +49,5 @@ A running list of project ideas that interest me.
 - [ ] JS Proxies  
 - [ ] Docker  
 - [ ] SVG Animations
+- [ ] Cerebral  
+- [ ] MobX
