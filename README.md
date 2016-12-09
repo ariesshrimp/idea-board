@@ -51,3 +51,4 @@ A running list of project ideas that interest me.
 - [ ] SVG Animations
 - [ ] Cerebral  
 - [ ] MobX
+- [ ] Redux Saga
