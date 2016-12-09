@@ -14,6 +14,7 @@ A running list of project ideas that interest me.
 ## Desktop / Native Apps
 - [ ] A desktop notification system for new pets at the humane society.  
 - [ ] A better app for tracking the long-term health of your pets (weight, illness, diet, medication, notes, etc.)  
+- [ ] A Note taking app (like Apple Notes) that has Github flavored markdown integrated.
 
 
 ## IoT
@@ -39,6 +40,7 @@ A running list of project ideas that interest me.
 
 ## Generic Technologies (no firm idea yet)
 - [ ] Preact  
+- [ ] Inferno
 - [ ] Haskell  
 - [ ] Elixir / Phoenix  
 - [ ] WebGL  
