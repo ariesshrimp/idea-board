@@ -53,3 +53,4 @@ A running list of project ideas that interest me.
 - [ ] MobX
 - [ ] Redux Saga
 - [ ] [Styletron](https://github.com/rtsao/styletron)
+- [ ] [Webpack Dashboard](https://github.com/FormidableLabs/webpack-dashboard)
